@@ -31,6 +31,34 @@ Projeto para um e-commerce utilizando um Modelo de Clustering para agrupamento d
             </a> &nbsp;
             </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 
+<h3 align="Left"> Estrutura: </h3>
+<ol>
+    <li><h4>Business Understanding</h4></li>
+    <li><h4>SetUp</h4></li>
+    <li><h4>Data Understanding</h4>
+        <ul>
+            <li><h5>Descrição</h5></li>
+            <li><h5>Análise exploratória</h5></li>
+        </ul>
+    </li>
+    <li><h4>Data Preparation</h4>
+        <ul>
+            <li>Data Cleaning</li>
+            <li>Informações novas</li>
+        </ul>
+    </li>
+    <li><h4>Modelagem</h4>
+        <ul>
+            <li>K-means</li>
+            <li>Hierarchical clustering</li>
+            <li>Gaussian Mixture</li>
+        </ul>
+    </li>
+    <li><h4>Interpretação do modelo</h4></li>
+    <li><h4>Ações de marketing</h4></li>
+    <li><h4>Conclusão</h4></li>
+</ol>
+
 <h3 align="Left">Implementação: </h3>
 Este modelo foi desenvolvido como estudo e realizado no google colab como notebook.
 
